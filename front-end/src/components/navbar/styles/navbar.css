@@ -1,0 +1,17 @@
+.nav-custom .nav-link.active {
+  background: #ececec;
+}
+
+.nav-custom .nav-link:hover {
+  background: #f0f0f0;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  color: #464646 !important;
+  background-color: #ffd46e !important;
+}
+
+.bg-orange {
+  background-color: var(--orange) !important;
+}
